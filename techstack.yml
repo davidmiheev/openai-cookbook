@@ -1,0 +1,111 @@
+repo_name: davidmiheev/openai-cookbook
+report_id: 187000a42f7e21ae0cd5c06ba2ccd060
+repo_type: Public
+timestamp: '2023-11-21T15:02:29+00:00'
+requested_by: kristapratico
+provider: github
+branch: main
+detected_tools_count: 9
+tools:
+- name: ".NET Core"
+  description: An Open Source, General-Purpose Development Platform Maintained by
+    Microsoft and the .NET Community
+  website_url: https://docs.microsoft.com/en-us/dotnet/core/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png
+  detection_source: examples/vector_databases/milvus/docker-compose.yaml
+  last_updated_by: Filip Haltmayer
+  last_updated_on: 2023-02-15 19:49:27.000000000 Z
+- name: Minio
+  description: AWS S3 open source alternative written in Go
+  website_url: https://minio.io/
+  license: AGPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Cloud Storage
+  image_url: https://img.stackshare.io/service/4485/gTawkyAA.png
+  detection_source: examples/vector_databases/milvus/docker-compose.yaml
+  last_updated_by: Filip Haltmayer
+  last_updated_on: 2023-02-15 19:49:27.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source: ".github/workflows/stale.yaml"
+  last_updated_by: simonpfish
+  last_updated_on: 2023-10-02 23:33:40.000000000 Z
+- name: cURL
+  description: Command Line Tool and Library for Transferring Data With URLs
+  website_url: http://curl.haxx.se/
+  open_source: true
+  hosted_saas: false
+  category: Assets and Media
+  sub_category: File Transfer
+  image_url: https://img.stackshare.io/service/6552/curl-logo.png
+  detection_source: examples/vector_databases/milvus/docker-compose.yaml
+  last_updated_by: Filip Haltmayer
+  last_updated_on: 2023-02-15 19:49:27.000000000 Z
+- name: Milvus
+  description: An Open Source Vector Similarity Search Engine
+  website_url: https://milvus.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Search Engines
+  image_url: https://img.stackshare.io/service/11462/UYESE3g6_400x400.jpg
+  detection_source: examples/vector_databases/milvus/docker-compose.yaml
+  last_updated_by: Filip Haltmayer
+  last_updated_on: 2023-02-15 19:49:27.000000000 Z
+- name: Qdrant
+  description: Open-source Vector Search Engine and Vector Database written in Rust
+  website_url: https://qdrant.tech/
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Search Engines
+  image_url: https://img.stackshare.io/service/48298/default_d234d62c02c7862d4384fbbf0bcbb94ff723df73.jpg
+  detection_source: examples/vector_databases/qdrant/docker-compose.yaml
+  last_updated_by: Kacper Łukawski
+  last_updated_on: 2023-06-29 14:47:18.000000000 Z
+- name: Typesense
+  description: Open-Source Alternative to Algolia
+  website_url: https://typesense.org
+  license: GPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Search as a Service
+  image_url: https://img.stackshare.io/service/11330/typesense_medium.png
+  detection_source: examples/vector_databases/typesense/docker-compose.yml
+  last_updated_by: Jason Bosco
+  last_updated_on: 2023-03-28 22:37:41.000000000 Z
+- name: Weaviate
+  description: An open-source vector search engine
+  website_url: https://weaviate.io/
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Search Engines
+  image_url: https://img.stackshare.io/service/48640/default_e449cca14683994294f8d6a9d2d22791e7e8448b.jpg
+  detection_source: examples/vector_databases/weaviate/docker-compose.yml
+  last_updated_by: colin-openai
+  last_updated_on: 2023-02-13 18:33:00.000000000 Z
