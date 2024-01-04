@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 davidmiheev/openai-cookbook is built on the following main stack:
+
 - [Minio](https://minio.io/) – Cloud Storage
 - [.NET Core](https://docs.microsoft.com/en-us/dotnet/core/) – Frameworks (Full Stack)
 - [cURL](http://curl.haxx.se/) – File Transfer
@@ -12,11 +13,13 @@ davidmiheev/openai-cookbook is built on the following main stack:
 - [Weaviate](https://weaviate.io/) – Search Engines
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 davidmiheev/openai-cookbook is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/4485/gTawkyAA.png' alt='Minio'/> [Minio](https://minio.io/) – Cloud Storage
 - <img width='25' height='25' src='https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png' alt='.NET Core'/> [.NET Core](https://docs.microsoft.com/en-us/dotnet/core/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/6552/curl-logo.png' alt='cURL'/> [cURL](http://curl.haxx.se/) – File Transfer
@@ -27,14 +30,15 @@ davidmiheev/openai-cookbook is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/48640/default_e449cca14683994294f8d6a9d2d22791e7e8448b.jpg' alt='Weaviate'/> [Weaviate](https://weaviate.io/) – Search Engines
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [davidmiheev/openai-cookbook](https://github.com/davidmiheev/openai-cookbook)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|9<br/>Tools used|11/21/23 <br/>Report generated|
+|9<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
