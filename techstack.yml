@@ -2,7 +2,7 @@ repo_name: davidmiheev/openai-cookbook
 report_id: 187000a42f7e21ae0cd5c06ba2ccd060
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:16:07+00:00'
+timestamp: '2024-02-29T18:13:53+00:00'
 requested_by: kristapratico
 provider: github
 branch: main
@@ -18,6 +18,19 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png
+  detection_source_url: https://github.com/davidmiheev/openai-cookbook/blob/main/examples/vector_databases/milvus/docker-compose.yaml
+  detection_source: examples/vector_databases/milvus/docker-compose.yaml
+  last_updated_by: Filip Haltmayer
+  last_updated_on: 2023-02-15 19:49:27.000000000 Z
+- name: Milvus
+  description: An Open Source Vector Similarity Search Engine
+  website_url: https://milvus.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Vector Databases
+  image_url: https://img.stackshare.io/service/11462/UYESE3g6_400x400.jpg
   detection_source_url: https://github.com/davidmiheev/openai-cookbook/blob/main/examples/vector_databases/milvus/docker-compose.yaml
   detection_source: examples/vector_databases/milvus/docker-compose.yaml
   last_updated_by: Filip Haltmayer
@@ -65,19 +78,6 @@ tools:
   category: Assets and Media
   sub_category: File Transfer
   image_url: https://img.stackshare.io/service/6552/curl-logo.png
-  detection_source_url: https://github.com/davidmiheev/openai-cookbook/blob/main/examples/vector_databases/milvus/docker-compose.yaml
-  detection_source: examples/vector_databases/milvus/docker-compose.yaml
-  last_updated_by: Filip Haltmayer
-  last_updated_on: 2023-02-15 19:49:27.000000000 Z
-- name: Milvus
-  description: An Open Source Vector Similarity Search Engine
-  website_url: https://milvus.io/
-  license: Apache-2.0
-  open_source: true
-  hosted_saas: false
-  category: Application Utilities
-  sub_category: Search Engines
-  image_url: https://img.stackshare.io/service/11462/UYESE3g6_400x400.jpg
   detection_source_url: https://github.com/davidmiheev/openai-cookbook/blob/main/examples/vector_databases/milvus/docker-compose.yaml
   detection_source: examples/vector_databases/milvus/docker-compose.yaml
   last_updated_by: Filip Haltmayer
